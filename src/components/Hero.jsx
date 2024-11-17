@@ -26,7 +26,7 @@ function Hero() {
                             {/* RSVP Details */}
                             <p className = "text-gray-500 text-2xl inter-regular">4 Going | 3 Unsure</p>
                             {/* Picnic Description */}
-                            <p>
+                            <p className = "text-orange inter-regular">
                                 Time for a day of relaxation on the lake. Bring
                                 a floatie and a swimsuit!
                             </p>
